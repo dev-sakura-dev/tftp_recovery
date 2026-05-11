@@ -404,7 +404,7 @@ class NetworkManager:
 
 def check_for_updates():
     try:
-        req = Request("https://api.github.com/repos/yourname/tftp-recovery/releases/latest",
+        req = Request("https://api.github.com/repos/dev-sakura-dev/tftp-recovery/releases/latest",
                      headers={"User-Agent": "TFTPRecovery"})
         with urlopen(req, timeout=5) as resp:
             data = json.loads(resp.read())
