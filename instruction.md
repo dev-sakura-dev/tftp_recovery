@@ -6,18 +6,22 @@
 
 
 
+RUS:  
+ЛИНУКС:
+1.установите пайтон
+2. запустите start-linux.sh
 
+ENG:
+LINUX:
+1. Install python
+2. Run start-linux.sh
 
+RUS: 
+ВИНДОВС:
+1. Установите пайтон
+2. Правой кнопкой мыши по main.py и запустить от имени администратора
 
-
-1. You can just install python and type in your terminal this
-         pip3 install -r requirements.txt
-   2. Then you need to open main.py:
-         python main.py
-
-         Чтобы запустить программу неободимо:
-         1. Установить Python
-         2. Прописать:
-         pip3 install -r requirements.txt
-         3. Просто открыть ;)
-         python main.py
+ENG:
+WINDOWS:
+1. Install python
+2. Right mouse click and "Run as administrator"
